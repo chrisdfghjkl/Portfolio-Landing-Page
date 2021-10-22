@@ -23,6 +23,7 @@ img {
   border: 2px solid rgb(31, 70, 26);
   border-radius: 50%;
   box-shadow: 5px 5px black;
+  margin-left: 10px;
 }
 .col-8 {
   border: 2px solid rgb(31, 70, 26);
@@ -40,4 +41,17 @@ img {
 .lang {
   color: red;
   font-size: 14px;
+}
+.column {
+  text-align: center;
+  width: 320px;
+  float:left;
+  border: 2px solid rgb(31, 70, 26);
+  background-color: rgb(237, 240, 226);
+  margin: 10px;
+  margin-left: 35px;
+  margin-top: 20px;
+  border-radius: 25px;
+  padding-bottom: 50px;
+  box-shadow: 5px 5px black;
 }
