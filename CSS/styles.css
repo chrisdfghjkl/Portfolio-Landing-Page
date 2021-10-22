@@ -31,6 +31,7 @@ img {
   border-radius: 25px;
   margin-left: 70px;
   box-shadow: 5px 5px black;
+  margin-bottom: 30px;
 }
 .description {
   font-style: italic;
@@ -52,7 +53,7 @@ img {
   margin-left: 35px;
   margin-top: 20px;
   border-radius: 25px;
-  /*padding-bottom: 200px; */
+  padding-bottom: 5px;
   box-shadow: 5px 5px black;
 }
 .header-section2 {
@@ -72,6 +73,7 @@ h2.about {
   text-shadow: 2px 2px coral;
 }
 h2.proj-head {
+  text-align: center;
   font-size: 24px;
   font-family: sans-serif;
   font-style: italic;
