@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(151, 196, 137);
+}
+.name {
+ margin-top: 10px;
+ font-style: italic;
+ text-align: center;
+}
