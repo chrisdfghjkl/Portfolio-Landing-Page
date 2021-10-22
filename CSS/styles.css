@@ -6,3 +6,13 @@ body {
  font-style: italic;
  text-align: center;
 }
+img {
+  height: 300px;
+  width: auto;
+  border: 2px solid white;
+  border-radius: 50%;
+}
+.col-8 {
+  border: 2px solid white;
+  margin-left: 70px;
+}
