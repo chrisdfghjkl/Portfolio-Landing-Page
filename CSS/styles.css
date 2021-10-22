@@ -1,11 +1,11 @@
 body {
-  background-color: rgb(151, 196, 137);
+  background-color: rgb(109, 163, 132);
 }
-.name {
+.header-section {
   border: solid 2px rgb(31, 70, 26);
-  background-color:rgb(237, 240, 226);
+  background-color:rgb(237, 240, 226, 0.5);
   border-radius: 25px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   margin-top: 15px;
   box-shadow: 5px 5px black;
 }
@@ -27,7 +27,7 @@ img {
 }
 .col-8 {
   border: 2px solid rgb(31, 70, 26);
-  background-color: rgb(237, 240, 226);
+  background-color: rgb(237, 240, 226, 0.5);
   border-radius: 25px;
   margin-left: 70px;
   box-shadow: 5px 5px black;
@@ -47,17 +47,38 @@ img {
   width: 320px;
   float:left;
   border: 2px solid rgb(31, 70, 26);
-  background-color: rgb(237, 240, 226);
+  background-color: rgb(237, 240, 226, 0.5);
   margin: 10px;
   margin-left: 35px;
   margin-top: 20px;
   border-radius: 25px;
-  padding-bottom: 75px;
+  padding-bottom: 200px;
   box-shadow: 5px 5px black;
-}
-h2 {
   font-family: sans-serif;
   font-style: italic;
+  text-decoration: underline;
+  text-shadow: 1px 1px coral;
+}
+.header-section2 {
+  border: solid 2px rgb(31, 70, 26);
+  background-color:rgb(237, 240, 226, 0.5);
+  border-radius: 25px;
+  margin-top: 15px;
+  box-shadow: 5px 5px black;
+}
+h2.about {
+  font-size: 46px;
+  font-family: sans-serif;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 60px;
+  text-shadow: 2px 2px coral;
+}
+h2.proj-head {
+  font-size: 24px;
+  font-family: sans-serif;
+  font-style: italic;
+  margin-top: 10px;
   text-decoration: underline;
   text-shadow: 1px 1px coral;
 }
