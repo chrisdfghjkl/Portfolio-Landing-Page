@@ -52,6 +52,12 @@ img {
   margin-left: 35px;
   margin-top: 20px;
   border-radius: 25px;
-  padding-bottom: 50px;
+  padding-bottom: 75px;
   box-shadow: 5px 5px black;
+}
+h2 {
+  font-family: sans-serif;
+  font-style: italic;
+  text-decoration: underline;
+  text-shadow: 1px 1px coral;
 }
