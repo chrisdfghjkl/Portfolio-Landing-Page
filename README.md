@@ -1,10 +1,10 @@
 # Portfolio Landing Page
 
-#### By Chris DePastene
+### By Chris DePastene
 
-#### A brief landing page to serve as an introduction to myself and my Github repository.
+### A brief landing page to serve as an introduction to myself and my Github repository.
 
-#### [Github Pages link] (https://chrisdfghjkl.github.io/Portfolio-Landing-Page/)
+### [Github Pages](https://chrisdfghjkl.github.io/Portfolio-Landing-Page/)
 
 ## Technologies Used
 
@@ -28,6 +28,6 @@ This landing page serves to introduce myself by including information such as my
 
 ## License
 
-[MIT] (https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2021 Christopher DePastene
